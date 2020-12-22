@@ -5,11 +5,11 @@ CloudletTableBuilderSLA.java : package to be imported org.cloudsimplus.builders.
 
 MyTestSLAReact.java : package to be imported org.cloudsimplus.examples
 
-MyVerticalVmCpuScalingExample : package to be imported org.cloudsimplus.examples.autoscaling
+MyVerticalVmCpuScalingExample.java : package to be imported org.cloudsimplus.examples.autoscaling
 
-MyHostFaultInjectionExample : package to be imported org.cloudsimplus.examples
+MyHostFaultInjectionExampl.java : package to be imported org.cloudsimplus.examples
 
-MyTest3 : package to be imported org.cloudsimplus.examples
+MyTest3.java : package to be imported org.cloudsimplus.examples
 
 Description: 
 
